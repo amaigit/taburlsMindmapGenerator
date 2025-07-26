@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Link Mindmap Generator
 
 A command-line toolkit designed to extract and visualize links exported from your browser (e.g., from saved sessions, history, or extensions like "Export Tabs URLs") as **interactive mind maps**. It provides comprehensive support for categorizing and enriching various link types, including YouTube videos, technical documentation, AI resources, GitHub repositories, and Reddit threads.
@@ -63,4 +62,3 @@ A command-line toolkit designed to extract and visualize links exported from you
     npx markmap-cli output/markmap_links.md
     ```
     Alternatively, paste the content of `output/markmap_links.md` directly into the online Markmap REPL: [markmap.js.org/repl](https://markmap.js.org/repl/)
-```
